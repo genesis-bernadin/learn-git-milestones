@@ -286,8 +286,8 @@ Item # | Description | Completed
 2a | 2nd Favorite emoji | 💕
 2b | Link to `commit #2 from Github Desktop` | <a href = "https://github.com/genesis-bernadin/learn-git-milestones/commit/d9a7a06d967909477e1a2483df955779b98ba36a"> Commit #2 from Github Desktop </a>
 2c | Full path to your working directory | /Users/genesisbernadin/Documents/GitHub/learn-git-milestones/README.md
-2d | Link to `commit #3 from CLI` |
-2e | 3rd Favorite emoji | 
+2d | Link to `commit #3 from CLI` |<a href = "https://github.com/omundy/learn-git-milestones/commit/f42fce8a22d2b4d850686079dd1a7c9da5560494"> Commit #3 from CLI </a>
+2e | 3rd Favorite emoji | 🙄
 2f | Link to `commit #4 from Atom` |
 3a | Link to `my-awesome-project` github.com repo page |
 4a | Link to `my-awesome-project` github.io "project site" |
