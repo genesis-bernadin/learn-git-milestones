@@ -288,7 +288,7 @@ Item # | Description | Completed
 2c | Full path to your working directory | /Users/genesisbernadin/Documents/GitHub/learn-git-milestones/README.md
 2d | Link to `commit #3 from CLI` |<a href = "gh repo clone genesis-bernadin/learn-git-milestones"> Commit #3 from CLI </a>
 2e | 3rd Favorite emoji | 🙄
-2f | Link to `commit #4 from Atom` | <a href = https://github.com/omundy/learn-git-milestones/commit/cf477866237d20c4d906972c21b57f6d83b97dbf> Commit #4 from Atom </a>
+2f | Link to `commit #4 from Atom` | <a href = "https://github.com/omundy/learn-git-milestones/commit/cf477866237d20c4d906972c21b57f6d83b97dbf"> Commit #4 from Atom </a>
 3a | Link to `my-awesome-project` github.com repo page | <a href = "https://github.com/genesis-bernadin/my-awesome-project.git"> My-Awesome-Project </a>
 4a | Link to `my-awesome-project` github.io "project site" | <a href = "https://genesis-bernadin.github.io/my-awesome-project/"> Project Site </a>
 
