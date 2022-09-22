@@ -280,8 +280,8 @@ That is all that is required for this milestone. See the `ADVANCED.md` file if y
 Item # | Description | Completed
 --- | --- | ---
 1a | 1st Favorite emoji | 😭
-1b | Link to `commit #1 from Github.com` |
-1c | Link to markdown tables docs |
+1b | Link to `commit #1 from Github.com` | <a href = "https://genesis-bernadin.github.io/learn-git-milestones/"> Commit #1 from Github.com </a>
+1c | Link to markdown tables docs | <a href = "https://www.markdownguide.org/extended-syntax/"> Markdown Tables </a>
 1d | What does `log` do? | This displays all the list of commits made to a repository.
 2a | 2nd Favorite emoji |
 2b | Link to `commit #2 from Github Desktop` |
