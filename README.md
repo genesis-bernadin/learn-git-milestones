@@ -280,14 +280,14 @@ That is all that is required for this milestone. See the `ADVANCED.md` file if y
 Item # | Description | Completed
 --- | --- | ---
 1a | 1st Favorite emoji | 😭
-1b | Link to `commit #1 from Github.com` | <a href = "https://genesis-bernadin.github.io/learn-git-milestones/"> Commit #1 from Github.com </a>
+1b | Link to `commit #1 from Github.com` | <a href = "https://github.com/genesis-bernadin/learn-git-milestones/commit/b8acf56051d9159f39f9c6e9e294dc472eaba5f1"> Commit #1 from Github.com </a>
 1c | Link to markdown tables docs | <a href = "https://www.markdownguide.org/extended-syntax/"> Markdown Tables </a>
 1d | What does `log` do? | This displays all the list of commits made to a repository.
 2a | 2nd Favorite emoji | 💕
-2b | Link to `commit #2 from Github Desktop` | 
-2c | Full path to your working directory |
+2b | Link to `commit #2 from Github Desktop` | <a href = "https://github.com/genesis-bernadin/learn-git-milestones/commit/d9a7a06d967909477e1a2483df955779b98ba36a"> Commit #2 from Github Desktop </a>
+2c | Full path to your working directory | /Users/genesisbernadin/Documents/GitHub/learn-git-milestones/README.md
 2d | Link to `commit #3 from CLI` |
-2e | 3rd Favorite emoji |
+2e | 3rd Favorite emoji | 
 2f | Link to `commit #4 from Atom` |
 3a | Link to `my-awesome-project` github.com repo page |
 4a | Link to `my-awesome-project` github.io "project site" |
