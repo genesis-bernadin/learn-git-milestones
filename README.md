@@ -280,17 +280,17 @@ That is all that is required for this milestone. See the `ADVANCED.md` file if y
 Item # | Description | Completed
 --- | --- | ---
 1a | 1st Favorite emoji | 😭
-1b | Link to `commit #1 from Github.com` | <a href = "https://github.com/genesis-bernadin/learn-git-milestones/commit/b8acf56051d9159f39f9c6e9e294dc472eaba5f1"> Commit #1 from Github.com </a>
-1c | Link to markdown tables docs | <a href = "https://www.markdownguide.org/extended-syntax/"> Markdown Tables </a>
+1b | Link to `commit #1 from Github.com` | [commit 1]https://github.com/genesis-bernadin/learn-git-milestones/commit/b8acf56051d9159f39f9c6e9e294dc472eaba5f1"
+1c | Link to markdown tables docs |[markdown] https://www.markdownguide.org/extended-syntax/
 1d | What does `log` do? | This displays all the list of commits made to a repository.
 2a | 2nd Favorite emoji | 💕
-2b | Link to `commit #2 from Github Desktop` | <a href = "https://github.com/genesis-bernadin/learn-git-milestones/commit/d9a7a06d967909477e1a2483df955779b98ba36a"> Commit #2 from Github Desktop </a>
+2b | Link to `commit #2 from Github Desktop` | [commit 2]https://github.com/genesis-bernadin/learn-git-milestones/commit/d9a7a06d967909477e1a2483df955779b98ba36a
 2c | Full path to your working directory | /Users/genesisbernadin/Documents/GitHub/learn-git-milestones/README.md
-2d | Link to `commit #3 from CLI` |<a href = "gh repo clone genesis-bernadin/learn-git-milestones"> Commit #3 from CLI </a>
+2d | Link to `commit #3 from CLI` |[commit 3] https://github.com/omundy/learn-git-milestones/commit/f42fce8a22d2b4d850686079dd1a7c9da5560494gh
 2e | 3rd Favorite emoji | 🙄
-2f | Link to `commit #4 from Atom` | <a href = "https://github.com/omundy/learn-git-milestones/commit/cf477866237d20c4d906972c21b57f6d83b97dbf"> Commit #4 from Atom </a>
-3a | Link to `my-awesome-project` github.com repo page | <a href = "https://github.com/genesis-bernadin/my-awesome-project.git"> My-Awesome-Project </a>
-4a | Link to `my-awesome-project` github.io "project site" | <a href = "https://genesis-bernadin.github.io/my-awesome-project/"> Project Site </a>
+2f | Link to `commit #4 from Atom` | [commit 4] https://github.com/omundy/learn-git-milestones/commit/cf477866237d20c4d906972c21b57f6d83b97dbf
+3a | Link to `my-awesome-project` github.com repo page |[my-awesome-project] https://github.com/genesis-bernadin/my-awesome-project.git
+4a | Link to `my-awesome-project` github.io "project site" | [project site ]https://genesis-bernadin.github.io/my-awesome-project/
 
 
 
